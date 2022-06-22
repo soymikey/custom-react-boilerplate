@@ -1,3 +1,13 @@
+# 这个是根据 create-react-app eject 之后添加了一些自定义的工具
+
+添加 prettier 和 eslint
+添加 husky 和 lint-staged
+添加 commitLint 和 commitizen
+
+通过 npm run commit 来提交代码
+
+以下是 create react app 使用文档
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
